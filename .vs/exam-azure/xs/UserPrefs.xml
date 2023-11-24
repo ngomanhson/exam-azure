@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{2C41A3A7-0786-4A01-8995-55BC1C17510C}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="exam-azure/Controllers/OrderController.cs">
+    <Files>
+      <File FileName="exam-azure/Program.cs" />
+      <File FileName="exam-azure/model/EditOrder.cs" />
+      <File FileName="exam-azure/Entities/DataContext.cs" />
+      <File FileName="exam-azure/DTOs/OrderDTO.cs" />
+      <File FileName="exam-azure/Controllers/OrderController.cs" Line="97" Column="22" />
+      <File FileName="exam-azure/Controllers/WeatherForecastController.cs" Line="26" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="exam-azure" expanded="True">
+            <Node name="exam-azure" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="OrderController.cs" selected="True" />
+              </Node>
+              <Node name="DTOs" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="model" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.exam-azure PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

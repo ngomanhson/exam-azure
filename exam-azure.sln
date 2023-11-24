@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exam-azure", "exam-azure\exam-azure.csproj", "{2C41A3A7-0786-4A01-8995-55BC1C17510C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{17FAF325-B61F-4A45-BB36-2F4E3FEF8DBB}"
+	ProjectSection(SolutionItems) = preProject
+		EmptyTextFile.txt = EmptyTextFile.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C41A3A7-0786-4A01-8995-55BC1C17510C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C41A3A7-0786-4A01-8995-55BC1C17510C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C41A3A7-0786-4A01-8995-55BC1C17510C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C41A3A7-0786-4A01-8995-55BC1C17510C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A24F59-8E87-407D-8971-6D6AEBD42433}
+	EndGlobalSection
+EndGlobal
